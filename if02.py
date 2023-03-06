@@ -12,4 +12,4 @@ def main(a):
     elif a<0:
         x=a-2
         return x
-print(main(3))
+print(main(-2))
